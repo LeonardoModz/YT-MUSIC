@@ -9,12 +9,12 @@
       :image="{
         path: '/images/pfp.jpg',
         redirect: '/',
-        alt: 'GwynDev Profile Picture',
+        alt: 'LEO MODZ OFC Profile Picture',
         showImage: true,
         isRounded: true,
       }"
       :title="{ text: 'Listen again', link: '/' }"
-      subtitle="GwynDev"
+      subtitle="BY LEO MODZ OFC"
       :showMore="true"
     />
     <HorizontalCarousel
